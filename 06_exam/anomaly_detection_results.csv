@@ -1,0 +1,691 @@
+,Filenames,Status
+0,evaluate\001 (1).tif,False
+1,evaluate\001 (2).tif,False
+2,evaluate\001.tif,False
+3,evaluate\001A.tif,True
+4,evaluate\002 (1).tif,False
+5,evaluate\002 (2).tif,False
+6,evaluate\002.tif,False
+7,evaluate\002A.tif,True
+8,evaluate\003 (1).tif,False
+9,evaluate\003 (2).tif,False
+10,evaluate\003.tif,False
+11,evaluate\003A.tif,True
+12,evaluate\004 (1).tif,False
+13,evaluate\004 (2).tif,False
+14,evaluate\004.tif,False
+15,evaluate\004A.tif,False
+16,evaluate\005 (1).tif,False
+17,evaluate\005 (2).tif,False
+18,evaluate\005.tif,False
+19,evaluate\005A.tif,True
+20,evaluate\006 (1).tif,False
+21,evaluate\006 (2).tif,False
+22,evaluate\006.tif,False
+23,evaluate\006A.tif,False
+24,evaluate\007 (1).tif,False
+25,evaluate\007 (2).tif,False
+26,evaluate\007.tif,False
+27,evaluate\007A.tif,False
+28,evaluate\008 (1).tif,False
+29,evaluate\008 (2).tif,False
+30,evaluate\008.tif,False
+31,evaluate\008A.tif,False
+32,evaluate\009 (1).tif,False
+33,evaluate\009 (2).tif,False
+34,evaluate\009.tif,False
+35,evaluate\009A.tif,True
+36,evaluate\010 (1).tif,False
+37,evaluate\010 (2).tif,False
+38,evaluate\010.tif,False
+39,evaluate\010A.tif,True
+40,evaluate\011 (1).tif,False
+41,evaluate\011 (2).tif,False
+42,evaluate\011.tif,False
+43,evaluate\011A.tif,False
+44,evaluate\012 (1).tif,False
+45,evaluate\012 (2).tif,False
+46,evaluate\012.tif,False
+47,evaluate\012A.tif,True
+48,evaluate\013 (1).tif,False
+49,evaluate\013 (2).tif,False
+50,evaluate\013.tif,False
+51,evaluate\013A.tif,True
+52,evaluate\014 (1).tif,False
+53,evaluate\014 (2).tif,False
+54,evaluate\014.tif,False
+55,evaluate\014A.tif,True
+56,evaluate\015 (1).tif,False
+57,evaluate\015 (2).tif,False
+58,evaluate\015.tif,False
+59,evaluate\015A.tif,True
+60,evaluate\016 (1).tif,False
+61,evaluate\016 (2).tif,False
+62,evaluate\016.tif,False
+63,evaluate\016A.tif,True
+64,evaluate\017 (1).tif,False
+65,evaluate\017 (2).tif,False
+66,evaluate\017.tif,False
+67,evaluate\017A.tif,True
+68,evaluate\018 (1).tif,False
+69,evaluate\018 (2).tif,False
+70,evaluate\018.tif,False
+71,evaluate\018A.tif,True
+72,evaluate\019 (1).tif,False
+73,evaluate\019 (2).tif,False
+74,evaluate\019.tif,False
+75,evaluate\019A.tif,False
+76,evaluate\020 (1).tif,False
+77,evaluate\020 (2).tif,False
+78,evaluate\020.tif,False
+79,evaluate\020A.tif,True
+80,evaluate\021 (1).tif,False
+81,evaluate\021 (2).tif,False
+82,evaluate\021.tif,False
+83,evaluate\021A.tif,True
+84,evaluate\022 (1).tif,False
+85,evaluate\022 (2).tif,False
+86,evaluate\022.tif,False
+87,evaluate\022A.tif,True
+88,evaluate\023 (1).tif,False
+89,evaluate\023 (2).tif,False
+90,evaluate\023.tif,False
+91,evaluate\023A.tif,True
+92,evaluate\024 (1).tif,False
+93,evaluate\024 (2).tif,False
+94,evaluate\024.tif,False
+95,evaluate\024A.tif,False
+96,evaluate\025 (1).tif,False
+97,evaluate\025 (2).tif,False
+98,evaluate\025.tif,False
+99,evaluate\025A.tif,False
+100,evaluate\026 (1).tif,False
+101,evaluate\026 (2).tif,False
+102,evaluate\026.tif,False
+103,evaluate\026A.tif,True
+104,evaluate\027 (1).tif,False
+105,evaluate\027 (2).tif,False
+106,evaluate\027.tif,False
+107,evaluate\027A.tif,False
+108,evaluate\028 (1).tif,False
+109,evaluate\028 (2).tif,False
+110,evaluate\028.tif,False
+111,evaluate\028A.tif,False
+112,evaluate\029 (1).tif,False
+113,evaluate\029 (2).tif,False
+114,evaluate\029.tif,False
+115,evaluate\029A.tif,True
+116,evaluate\030 (1).tif,False
+117,evaluate\030 (2).tif,False
+118,evaluate\030.tif,False
+119,evaluate\030A.tif,False
+120,evaluate\031 (1).tif,False
+121,evaluate\031 (2).tif,False
+122,evaluate\031.tif,False
+123,evaluate\031A.tif,False
+124,evaluate\032 (1).tif,False
+125,evaluate\032 (2).tif,False
+126,evaluate\032.tif,False
+127,evaluate\032A.tif,True
+128,evaluate\033 (1).tif,False
+129,evaluate\033 (2).tif,False
+130,evaluate\033.tif,False
+131,evaluate\033A.tif,False
+132,evaluate\034 (1).tif,False
+133,evaluate\034 (2).tif,False
+134,evaluate\034.tif,False
+135,evaluate\034A.tif,True
+136,evaluate\035 (1).tif,False
+137,evaluate\035 (2).tif,False
+138,evaluate\035.tif,False
+139,evaluate\035A.tif,True
+140,evaluate\036 (1).tif,False
+141,evaluate\036 (2).tif,False
+142,evaluate\036.tif,False
+143,evaluate\036A.tif,True
+144,evaluate\037 (1).tif,False
+145,evaluate\037 (2).tif,False
+146,evaluate\037.tif,False
+147,evaluate\037A.tif,True
+148,evaluate\038 (1).tif,False
+149,evaluate\038 (2).tif,False
+150,evaluate\038.tif,False
+151,evaluate\038A.tif,False
+152,evaluate\039 (1).tif,False
+153,evaluate\039 (2).tif,False
+154,evaluate\039.tif,False
+155,evaluate\039A.tif,False
+156,evaluate\040 (1).tif,False
+157,evaluate\040 (2).tif,False
+158,evaluate\040.tif,False
+159,evaluate\040A.tif,True
+160,evaluate\041 (1).tif,False
+161,evaluate\041 (2).tif,False
+162,evaluate\041.tif,False
+163,evaluate\041A.tif,False
+164,evaluate\042 (1).tif,False
+165,evaluate\042 (2).tif,False
+166,evaluate\042.tif,False
+167,evaluate\042A.tif,False
+168,evaluate\043 (1).tif,False
+169,evaluate\043 (2).tif,False
+170,evaluate\043.tif,False
+171,evaluate\043A.tif,False
+172,evaluate\044 (1).tif,False
+173,evaluate\044 (2).tif,False
+174,evaluate\044.tif,False
+175,evaluate\044A.tif,True
+176,evaluate\045 (1).tif,False
+177,evaluate\045 (2).tif,False
+178,evaluate\045.tif,False
+179,evaluate\045A.tif,True
+180,evaluate\046 (1).tif,False
+181,evaluate\046 (2).tif,False
+182,evaluate\046.tif,False
+183,evaluate\046A.tif,True
+184,evaluate\047 (1).tif,False
+185,evaluate\047 (2).tif,False
+186,evaluate\047.tif,False
+187,evaluate\047A.tif,False
+188,evaluate\048 (1).tif,False
+189,evaluate\048 (2).tif,False
+190,evaluate\048.tif,False
+191,evaluate\048A.tif,True
+192,evaluate\049 (1).tif,False
+193,evaluate\049 (2).tif,False
+194,evaluate\049.tif,False
+195,evaluate\049A.tif,True
+196,evaluate\050 (1).tif,False
+197,evaluate\050 (2).tif,False
+198,evaluate\050.tif,False
+199,evaluate\050A.tif,False
+200,evaluate\051 (1).tif,False
+201,evaluate\051 (2).tif,False
+202,evaluate\051.tif,False
+203,evaluate\051A.tif,True
+204,evaluate\052 (1).tif,False
+205,evaluate\052 (2).tif,False
+206,evaluate\052.tif,False
+207,evaluate\052A.tif,False
+208,evaluate\053 (1).tif,False
+209,evaluate\053 (2).tif,False
+210,evaluate\053.tif,False
+211,evaluate\053A.tif,False
+212,evaluate\054 (1).tif,False
+213,evaluate\054 (2).tif,False
+214,evaluate\054.tif,False
+215,evaluate\054A.tif,True
+216,evaluate\055 (1).tif,False
+217,evaluate\055 (2).tif,False
+218,evaluate\055.tif,False
+219,evaluate\055A.tif,True
+220,evaluate\056 (1).tif,False
+221,evaluate\056 (2).tif,False
+222,evaluate\056.tif,False
+223,evaluate\056A.tif,False
+224,evaluate\057 (1).tif,False
+225,evaluate\057 (2).tif,False
+226,evaluate\057.tif,False
+227,evaluate\057A.tif,False
+228,evaluate\058 (1).tif,False
+229,evaluate\058 (2).tif,False
+230,evaluate\058.tif,False
+231,evaluate\058A.tif,False
+232,evaluate\059 (1).tif,False
+233,evaluate\059 (2).tif,False
+234,evaluate\059.tif,False
+235,evaluate\059A.tif,True
+236,evaluate\060 (1).tif,False
+237,evaluate\060 (2).tif,False
+238,evaluate\060.tif,False
+239,evaluate\060A.tif,True
+240,evaluate\061 (1).tif,False
+241,evaluate\061 (2).tif,False
+242,evaluate\061.tif,False
+243,evaluate\061A.tif,True
+244,evaluate\062 (1).tif,False
+245,evaluate\062 (2).tif,False
+246,evaluate\062.tif,False
+247,evaluate\062A.tif,False
+248,evaluate\063 (1).tif,False
+249,evaluate\063 (2).tif,False
+250,evaluate\063.tif,False
+251,evaluate\063A.tif,True
+252,evaluate\064 (1).tif,False
+253,evaluate\064 (2).tif,False
+254,evaluate\064.tif,False
+255,evaluate\064A.tif,True
+256,evaluate\065 (1).tif,False
+257,evaluate\065 (2).tif,False
+258,evaluate\065.tif,False
+259,evaluate\065A.tif,True
+260,evaluate\066 (1).tif,False
+261,evaluate\066 (2).tif,False
+262,evaluate\066.tif,False
+263,evaluate\066A.tif,True
+264,evaluate\067 (1).tif,False
+265,evaluate\067 (2).tif,False
+266,evaluate\067.tif,False
+267,evaluate\067A.tif,True
+268,evaluate\068 (1).tif,False
+269,evaluate\068 (2).tif,False
+270,evaluate\068.tif,False
+271,evaluate\068A.tif,False
+272,evaluate\069 (1).tif,False
+273,evaluate\069 (2).tif,False
+274,evaluate\069.tif,False
+275,evaluate\069A.tif,True
+276,evaluate\070 (1).tif,False
+277,evaluate\070 (2).tif,False
+278,evaluate\070.tif,False
+279,evaluate\070A.tif,False
+280,evaluate\071 (1).tif,False
+281,evaluate\071 (2).tif,False
+282,evaluate\071.tif,False
+283,evaluate\071A.tif,False
+284,evaluate\072 (1).tif,False
+285,evaluate\072 (2).tif,False
+286,evaluate\072.tif,False
+287,evaluate\072A.tif,True
+288,evaluate\073 (1).tif,False
+289,evaluate\073 (2).tif,False
+290,evaluate\073.tif,False
+291,evaluate\073A.tif,True
+292,evaluate\074 (1).tif,False
+293,evaluate\074 (2).tif,False
+294,evaluate\074.tif,False
+295,evaluate\074A.tif,True
+296,evaluate\075 (1).tif,False
+297,evaluate\075 (2).tif,False
+298,evaluate\075.tif,False
+299,evaluate\075A.tif,True
+300,evaluate\076 (1).tif,False
+301,evaluate\076 (2).tif,False
+302,evaluate\076.tif,False
+303,evaluate\076A.tif,False
+304,evaluate\077 (1).tif,False
+305,evaluate\077 (2).tif,False
+306,evaluate\077.tif,False
+307,evaluate\077A.tif,True
+308,evaluate\078 (1).tif,False
+309,evaluate\078 (2).tif,False
+310,evaluate\078.tif,False
+311,evaluate\078A.tif,False
+312,evaluate\079 (1).tif,False
+313,evaluate\079 (2).tif,False
+314,evaluate\079.tif,False
+315,evaluate\079A.tif,False
+316,evaluate\080 (1).tif,False
+317,evaluate\080 (2).tif,False
+318,evaluate\080.tif,False
+319,evaluate\080A.tif,True
+320,evaluate\081 (1).tif,False
+321,evaluate\081 (2).tif,False
+322,evaluate\081.tif,False
+323,evaluate\081A.tif,False
+324,evaluate\082 (1).tif,False
+325,evaluate\082 (2).tif,False
+326,evaluate\082.tif,False
+327,evaluate\082A.tif,False
+328,evaluate\083 (1).tif,False
+329,evaluate\083 (2).tif,False
+330,evaluate\083.tif,False
+331,evaluate\083A.tif,False
+332,evaluate\084 (1).tif,False
+333,evaluate\084 (2).tif,False
+334,evaluate\084.tif,False
+335,evaluate\084A.tif,False
+336,evaluate\085 (1).tif,False
+337,evaluate\085 (2).tif,False
+338,evaluate\085.tif,False
+339,evaluate\085A.tif,True
+340,evaluate\086 (1).tif,False
+341,evaluate\086 (2).tif,False
+342,evaluate\086.tif,False
+343,evaluate\086A.tif,False
+344,evaluate\087 (1).tif,False
+345,evaluate\087 (2).tif,False
+346,evaluate\087.tif,False
+347,evaluate\087A.tif,True
+348,evaluate\088 (1).tif,False
+349,evaluate\088 (2).tif,False
+350,evaluate\088.tif,False
+351,evaluate\088A.tif,True
+352,evaluate\089 (1).tif,False
+353,evaluate\089 (2).tif,False
+354,evaluate\089.tif,False
+355,evaluate\089A.tif,True
+356,evaluate\090 (1).tif,False
+357,evaluate\090 (2).tif,False
+358,evaluate\090.tif,False
+359,evaluate\090A.tif,True
+360,evaluate\091 (1).tif,False
+361,evaluate\091 (2).tif,False
+362,evaluate\091.tif,False
+363,evaluate\091A.tif,False
+364,evaluate\092 (1).tif,False
+365,evaluate\092 (2).tif,False
+366,evaluate\092.tif,False
+367,evaluate\092A.tif,True
+368,evaluate\093 (1).tif,False
+369,evaluate\093 (2).tif,False
+370,evaluate\093.tif,False
+371,evaluate\093A.tif,True
+372,evaluate\094 (1).tif,False
+373,evaluate\094 (2).tif,False
+374,evaluate\094.tif,False
+375,evaluate\094A.tif,False
+376,evaluate\095 (1).tif,False
+377,evaluate\095 (2).tif,False
+378,evaluate\095.tif,False
+379,evaluate\095A.tif,True
+380,evaluate\096 (1).tif,False
+381,evaluate\096 (2).tif,False
+382,evaluate\096.tif,False
+383,evaluate\096A.tif,True
+384,evaluate\097 (1).tif,False
+385,evaluate\097 (2).tif,False
+386,evaluate\097.tif,False
+387,evaluate\097A.tif,True
+388,evaluate\098 (1).tif,False
+389,evaluate\098 (2).tif,False
+390,evaluate\098.tif,False
+391,evaluate\098A.tif,False
+392,evaluate\099 (1).tif,False
+393,evaluate\099 (2).tif,False
+394,evaluate\099.tif,False
+395,evaluate\099A.tif,True
+396,evaluate\100 (1).tif,False
+397,evaluate\100 (2).tif,False
+398,evaluate\100.tif,False
+399,evaluate\100A.tif,False
+400,evaluate\101 (1).tif,False
+401,evaluate\101 (2).tif,False
+402,evaluate\101.tif,False
+403,evaluate\101A.tif,True
+404,evaluate\102 (1).tif,False
+405,evaluate\102 (2).tif,False
+406,evaluate\102.tif,False
+407,evaluate\102A.tif,True
+408,evaluate\103 (1).tif,False
+409,evaluate\103 (2).tif,False
+410,evaluate\103.tif,False
+411,evaluate\103A.tif,False
+412,evaluate\104 (1).tif,False
+413,evaluate\104 (2).tif,False
+414,evaluate\104.tif,False
+415,evaluate\104A.tif,True
+416,evaluate\105 (1).tif,False
+417,evaluate\105 (2).tif,False
+418,evaluate\105.tif,False
+419,evaluate\105A.tif,False
+420,evaluate\106 (1).tif,False
+421,evaluate\106 (2).tif,False
+422,evaluate\106.tif,False
+423,evaluate\106A.tif,True
+424,evaluate\107 (1).tif,False
+425,evaluate\107 (2).tif,False
+426,evaluate\107.tif,False
+427,evaluate\107A.tif,True
+428,evaluate\108 (1).tif,False
+429,evaluate\108 (2).tif,False
+430,evaluate\108.tif,False
+431,evaluate\108A.tif,True
+432,evaluate\109 (1).tif,False
+433,evaluate\109 (2).tif,False
+434,evaluate\109.tif,False
+435,evaluate\109A.tif,False
+436,evaluate\110 (1).tif,False
+437,evaluate\110 (2).tif,False
+438,evaluate\110.tif,False
+439,evaluate\110A.tif,False
+440,evaluate\111 (1).tif,False
+441,evaluate\111 (2).tif,False
+442,evaluate\111.tif,False
+443,evaluate\111A.tif,False
+444,evaluate\112 (1).tif,False
+445,evaluate\112 (2).tif,False
+446,evaluate\112.tif,False
+447,evaluate\112A.tif,True
+448,evaluate\113 (1).tif,False
+449,evaluate\113 (2).tif,False
+450,evaluate\113.tif,False
+451,evaluate\113A.tif,False
+452,evaluate\114 (1).tif,False
+453,evaluate\114 (2).tif,False
+454,evaluate\114.tif,False
+455,evaluate\114A.tif,False
+456,evaluate\115 (1).tif,False
+457,evaluate\115 (2).tif,False
+458,evaluate\115.tif,False
+459,evaluate\115A.tif,False
+460,evaluate\116 (1).tif,False
+461,evaluate\116 (2).tif,False
+462,evaluate\116.tif,False
+463,evaluate\116A.tif,True
+464,evaluate\117 (1).tif,False
+465,evaluate\117 (2).tif,False
+466,evaluate\117.tif,False
+467,evaluate\117A.tif,True
+468,evaluate\118 (1).tif,False
+469,evaluate\118 (2).tif,False
+470,evaluate\118.tif,False
+471,evaluate\118A.tif,True
+472,evaluate\119 (1).tif,False
+473,evaluate\119 (2).tif,False
+474,evaluate\119.tif,False
+475,evaluate\119A.tif,True
+476,evaluate\120 (1).tif,False
+477,evaluate\120 (2).tif,False
+478,evaluate\120.tif,False
+479,evaluate\120A.tif,True
+480,evaluate\121 (1).tif,False
+481,evaluate\121 (2).tif,False
+482,evaluate\121.tif,False
+483,evaluate\121A.tif,True
+484,evaluate\122 (1).tif,False
+485,evaluate\122 (2).tif,False
+486,evaluate\122.tif,False
+487,evaluate\122A.tif,False
+488,evaluate\123 (1).tif,False
+489,evaluate\123 (2).tif,False
+490,evaluate\123.tif,False
+491,evaluate\123A.tif,True
+492,evaluate\124 (1).tif,False
+493,evaluate\124 (2).tif,False
+494,evaluate\124.tif,False
+495,evaluate\124A.tif,False
+496,evaluate\125 (1).tif,False
+497,evaluate\125 (2).tif,False
+498,evaluate\125.tif,False
+499,evaluate\125A.tif,True
+500,evaluate\126 (1).tif,False
+501,evaluate\126 (2).tif,False
+502,evaluate\126.tif,False
+503,evaluate\126A.tif,False
+504,evaluate\127 (1).tif,False
+505,evaluate\127 (2).tif,False
+506,evaluate\127.tif,False
+507,evaluate\127A.tif,False
+508,evaluate\128 (1).tif,False
+509,evaluate\128 (2).tif,False
+510,evaluate\128.tif,False
+511,evaluate\128A.tif,True
+512,evaluate\129 (1).tif,False
+513,evaluate\129 (2).tif,False
+514,evaluate\129.tif,False
+515,evaluate\129A.tif,True
+516,evaluate\130 (1).tif,False
+517,evaluate\130 (2).tif,False
+518,evaluate\130.tif,False
+519,evaluate\130A.tif,False
+520,evaluate\131 (1).tif,False
+521,evaluate\131 (2).tif,False
+522,evaluate\131.tif,False
+523,evaluate\131A.tif,True
+524,evaluate\132 (1).tif,False
+525,evaluate\132 (2).tif,False
+526,evaluate\132.tif,False
+527,evaluate\132A.tif,True
+528,evaluate\133 (1).tif,False
+529,evaluate\133 (2).tif,False
+530,evaluate\133.tif,False
+531,evaluate\133A.tif,False
+532,evaluate\134 (1).tif,False
+533,evaluate\134 (2).tif,False
+534,evaluate\134.tif,False
+535,evaluate\134A.tif,True
+536,evaluate\135 (1).tif,False
+537,evaluate\135 (2).tif,False
+538,evaluate\135.tif,False
+539,evaluate\135A.tif,False
+540,evaluate\136 (1).tif,False
+541,evaluate\136 (2).tif,False
+542,evaluate\136.tif,False
+543,evaluate\136A.tif,False
+544,evaluate\137 (1).tif,False
+545,evaluate\137 (2).tif,False
+546,evaluate\137.tif,False
+547,evaluate\137A.tif,True
+548,evaluate\138 (1).tif,False
+549,evaluate\138 (2).tif,False
+550,evaluate\138.tif,False
+551,evaluate\138A.tif,True
+552,evaluate\139 (1).tif,False
+553,evaluate\139 (2).tif,False
+554,evaluate\139.tif,False
+555,evaluate\139A.tif,True
+556,evaluate\140 (1).tif,False
+557,evaluate\140 (2).tif,False
+558,evaluate\140.tif,False
+559,evaluate\140A.tif,True
+560,evaluate\141 (1).tif,False
+561,evaluate\141 (2).tif,False
+562,evaluate\141.tif,False
+563,evaluate\141A.tif,True
+564,evaluate\142 (1).tif,False
+565,evaluate\142 (2).tif,False
+566,evaluate\142.tif,False
+567,evaluate\142A.tif,True
+568,evaluate\143 (1).tif,False
+569,evaluate\143 (2).tif,False
+570,evaluate\143.tif,False
+571,evaluate\143A.tif,True
+572,evaluate\144 (1).tif,False
+573,evaluate\144 (2).tif,False
+574,evaluate\144.tif,False
+575,evaluate\144A.tif,False
+576,evaluate\145 (1).tif,False
+577,evaluate\145 (2).tif,False
+578,evaluate\145.tif,False
+579,evaluate\145A.tif,True
+580,evaluate\146 (1).tif,False
+581,evaluate\146 (2).tif,False
+582,evaluate\146.tif,False
+583,evaluate\146A.tif,False
+584,evaluate\147 (1).tif,False
+585,evaluate\147 (2).tif,False
+586,evaluate\147.tif,False
+587,evaluate\147A.tif,False
+588,evaluate\148 (1).tif,False
+589,evaluate\148 (2).tif,False
+590,evaluate\148.tif,False
+591,evaluate\148A.tif,True
+592,evaluate\149 (1).tif,False
+593,evaluate\149 (2).tif,False
+594,evaluate\149.tif,False
+595,evaluate\149A.tif,False
+596,evaluate\150 (1).tif,False
+597,evaluate\150 (2).tif,False
+598,evaluate\150.tif,False
+599,evaluate\150A.tif,True
+600,evaluate\151 (1).tif,False
+601,evaluate\151.tif,False
+602,evaluate\151A.tif,True
+603,evaluate\152 (1).tif,False
+604,evaluate\152.tif,False
+605,evaluate\152A.tif,False
+606,evaluate\153 (1).tif,False
+607,evaluate\153.tif,False
+608,evaluate\153A.tif,False
+609,evaluate\154 (1).tif,False
+610,evaluate\154.tif,False
+611,evaluate\154A.tif,False
+612,evaluate\155 (1).tif,False
+613,evaluate\155.tif,False
+614,evaluate\155A.tif,False
+615,evaluate\156 (1).tif,False
+616,evaluate\156.tif,False
+617,evaluate\156A.tif,True
+618,evaluate\157 (1).tif,False
+619,evaluate\157.tif,False
+620,evaluate\157A.tif,True
+621,evaluate\158 (1).tif,False
+622,evaluate\158.tif,False
+623,evaluate\158A.tif,True
+624,evaluate\159 (1).tif,False
+625,evaluate\159.tif,False
+626,evaluate\159A.tif,False
+627,evaluate\160 (1).tif,False
+628,evaluate\160.tif,False
+629,evaluate\160A.tif,False
+630,evaluate\161 (1).tif,False
+631,evaluate\161.tif,False
+632,evaluate\161A.tif,False
+633,evaluate\162 (1).tif,False
+634,evaluate\162.tif,False
+635,evaluate\162A.tif,True
+636,evaluate\163 (1).tif,False
+637,evaluate\163.tif,False
+638,evaluate\163A.tif,True
+639,evaluate\164 (1).tif,False
+640,evaluate\164.tif,False
+641,evaluate\164A.tif,True
+642,evaluate\165 (1).tif,False
+643,evaluate\165.tif,False
+644,evaluate\165A.tif,True
+645,evaluate\166 (1).tif,False
+646,evaluate\166.tif,False
+647,evaluate\166A.tif,True
+648,evaluate\167 (1).tif,False
+649,evaluate\167.tif,False
+650,evaluate\167A.tif,False
+651,evaluate\168 (1).tif,False
+652,evaluate\168.tif,False
+653,evaluate\168A.tif,True
+654,evaluate\169 (1).tif,False
+655,evaluate\169.tif,False
+656,evaluate\169A.tif,True
+657,evaluate\170 (1).tif,False
+658,evaluate\170.tif,False
+659,evaluate\170A.tif,True
+660,evaluate\171 (1).tif,False
+661,evaluate\171.tif,False
+662,evaluate\171A.tif,True
+663,evaluate\172 (1).tif,False
+664,evaluate\172.tif,False
+665,evaluate\172A.tif,True
+666,evaluate\173 (1).tif,False
+667,evaluate\173.tif,False
+668,evaluate\173A.tif,True
+669,evaluate\174 (1).tif,False
+670,evaluate\174.tif,False
+671,evaluate\174A.tif,True
+672,evaluate\175 (1).tif,False
+673,evaluate\175.tif,False
+674,evaluate\175A.tif,True
+675,evaluate\176 (1).tif,False
+676,evaluate\176.tif,False
+677,evaluate\176A.tif,True
+678,evaluate\177 (1).tif,False
+679,evaluate\177.tif,False
+680,evaluate\177A.tif,False
+681,evaluate\178 (1).tif,False
+682,evaluate\178.tif,False
+683,evaluate\178A.tif,True
+684,evaluate\179 (1).tif,False
+685,evaluate\179.tif,False
+686,evaluate\179A.tif,True
+687,evaluate\180 (1).tif,False
+688,evaluate\180.tif,False
+689,evaluate\180A.tif,True
