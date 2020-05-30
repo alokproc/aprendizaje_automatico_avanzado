@@ -2,3 +2,4 @@
 __pycache__
 .vscode
 04_graded_lab/data/*
+tweets.csv
